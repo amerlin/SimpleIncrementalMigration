@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z2vYF0KP2i8kkOlJ5a7gii1TntuClQVF2cfUqzQQ5mqDeqs48T8HE5q56pvBu+O4RQmbq8YVbZRabv+F+ifT2g==",
+  "success": true,
+  "projectFilePath": "C:\\Sessioni\\SimpleIncrementalMigration\\TestLibrary\\TestLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrea.Merlin\\.nuget\\packages\\microsoft.aspnetcore.systemwebadapters\\1.0.0\\microsoft.aspnetcore.systemwebadapters.1.0.0.nupkg.sha512",
+    "C:\\Users\\Andrea.Merlin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Andrea.Merlin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Sessioni\\SimpleIncrementalMigration\\SimpleIncrementalMigrationCore\\SimpleIncrementalMigrationCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Sessioni\\SimpleIncrementalMigration\\SimpleIncrementalMigrationCore\\SimpleIncrementalMigrationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sessioni\\SimpleIncrementalMigration\\SimpleIncrementalMigrationCore\\SimpleIncrementalMigrationCore.csproj",
+        "projectName": "SimpleIncrementalMigrationCore",
+        "projectPath": "C:\\Sessioni\\SimpleIncrementalMigration\\SimpleIncrementalMigrationCore\\SimpleIncrementalMigrationCore.csproj",
+        "packagesPath": "C:\\Users\\Andrea.Merlin\\.nuget\\packages\\",
+        "outputPath": "C:\\Sessioni\\SimpleIncrementalMigration\\SimpleIncrementalMigrationCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andrea.Merlin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Sessioni\\SimpleIncrementalMigration\\TestLibrary\\TestLibrary.csproj": {
+                "projectPath": "C:\\Sessioni\\SimpleIncrementalMigration\\TestLibrary\\TestLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.SystemWebAdapters": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.AspNetCore.SystemWebAdapters.CoreServices": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Yarp.ReverseProxy": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Sessioni\\SimpleIncrementalMigration\\TestLibrary\\TestLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sessioni\\SimpleIncrementalMigration\\TestLibrary\\TestLibrary.csproj",
+        "projectName": "TestLibrary",
+        "projectPath": "C:\\Sessioni\\SimpleIncrementalMigration\\TestLibrary\\TestLibrary.csproj",
+        "packagesPath": "C:\\Users\\Andrea.Merlin\\.nuget\\packages\\",
+        "outputPath": "C:\\Sessioni\\SimpleIncrementalMigration\\TestLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andrea.Merlin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.SystemWebAdapters": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

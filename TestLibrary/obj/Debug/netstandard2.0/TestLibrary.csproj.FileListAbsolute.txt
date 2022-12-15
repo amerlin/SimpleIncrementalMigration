@@ -1,0 +1,10 @@
+C:\Sessioni\SimpleIncrementalMigration\TestLibrary\bin\Debug\netstandard2.0\TestLibrary.deps.json
+C:\Sessioni\SimpleIncrementalMigration\TestLibrary\bin\Debug\netstandard2.0\TestLibrary.dll
+C:\Sessioni\SimpleIncrementalMigration\TestLibrary\bin\Debug\netstandard2.0\TestLibrary.pdb
+C:\Sessioni\SimpleIncrementalMigration\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.csproj.AssemblyReference.cache
+C:\Sessioni\SimpleIncrementalMigration\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sessioni\SimpleIncrementalMigration\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.AssemblyInfoInputs.cache
+C:\Sessioni\SimpleIncrementalMigration\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.AssemblyInfo.cs
+C:\Sessioni\SimpleIncrementalMigration\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Sessioni\SimpleIncrementalMigration\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.dll
+C:\Sessioni\SimpleIncrementalMigration\TestLibrary\obj\Debug\netstandard2.0\TestLibrary.pdb

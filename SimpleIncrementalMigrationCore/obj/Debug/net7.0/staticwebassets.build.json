@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3v2igkl7VViSzCilRiq9JRYkz2xrtRRfNff7rzAj+B4=",
+  "Source": "SimpleIncrementalMigrationCore",
+  "BasePath": "_content/SimpleIncrementalMigrationCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
